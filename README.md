@@ -17,9 +17,11 @@
     <a href="https://github.com/ebekirbayar/USART-Data-Transmission-with-ESP8266-Azure-IoT-Hub-Integration/issues">Request Feature</a>
   </p>
 </p>
+<p align="center">
 
 ![Contributors](https://img.shields.io/github/contributors/ebekirbayar/USART-Data-Transmission-with-ESP8266-Azure-IoT-Hub-Integration?color=dark-green) ![Issues](https://img.shields.io/github/issues/ebekirbayar/USART-Data-Transmission-with-ESP8266-Azure-IoT-Hub-Integration) ![License](https://img.shields.io/github/license/ebekirbayar/USART-Data-Transmission-with-ESP8266-Azure-IoT-Hub-Integration) 
 
+</p>
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
